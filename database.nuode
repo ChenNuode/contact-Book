@@ -1,6 +1,6 @@
 T
-20191006
-['Nuode', 'Chen', 20030127, 83224240, 16, 127, 'aquarius']
-[['Nuode', 'Chen', 20030127, 83224240, 16, 127, 'aquarius']]
+20200224
+['Nuode', 'Chen', 20030127, 83224240, 17, 127, 'aquarius']
+[['Nuode', 'Chen', 20030127, 83224240, 16, 127, 'aquarius'], ['Nuode', 'Chen', 20030127, 83224240, 17, 127, 'aquarius']]
 []
-{'first name': "(None, ('Nuode', [0], 1, 0, 'even'), None)", 'last name': "(None, ('Chen', [0], 1, 0, 'even'), None)", 'age': "(None, (16, [0], 1, 0, 'even'), None)", 'horoscope': "(None, ('aquarius', [0], 1, 0, 'even'), None)", 'phone number': "(None, (83224240, [0], 1, 0, 'even'), None)", 'birthday': "(None, (20030127, [0], 1, 0, 'even'), None)", 'birthday[MMDD]': "(None, (127, [0], 1, 0, 'even'), None)"}
+{'first name': "(None, ('Nuode', [0, 1], 1, 0, 'even'), None)", 'last name': "(None, ('Chen', [0, 1], 1, 0, 'even'), None)", 'age': "(None, (16, [0], 2, 1, 'rightheavy'), (None, (17, [1], 1, 0, 'even'), None))", 'horoscope': "(None, ('aquarius', [0, 1], 1, 0, 'even'), None)", 'phone number': "(None, (83224240, [0, 1], 1, 0, 'even'), None)", 'birthday': "(None, (20030127, [0, 1], 1, 0, 'even'), None)", 'birthday[MMDD]': "(None, (127, [0, 1], 1, 0, 'even'), None)"}
